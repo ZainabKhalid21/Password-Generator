@@ -1,6 +1,7 @@
 import random
 import string
 
+#Code
 class random_password_generator:
     def __init__(self):
         self.digits = True
